@@ -9,6 +9,6 @@ variable "prefix" {
 }
 
 variable "name" {
-  description = "yourname."
+  description = "kossi."
   type        = string
 }
